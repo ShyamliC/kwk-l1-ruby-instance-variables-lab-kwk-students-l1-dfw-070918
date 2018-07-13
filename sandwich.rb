@@ -1,1 +1,2 @@
-z
+class Sandwich
+end
