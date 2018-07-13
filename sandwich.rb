@@ -24,3 +24,5 @@ class Sandwich
 end
 
 Sandwich.new("sourdough","turkey","cheddar","cold")
+Sandwich.new("rye","ham","swiss","cold")
+Sandwich.new("wheat bread","no meat","brie cheese","hot")
