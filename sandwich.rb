@@ -4,4 +4,22 @@ class Sandwich
     @meat=meat
     @cheese_type=cheese_type
     @hot_or_cold=hot_or_cold
+  end
+  
+  def bread_type
+    @bread_type
+  end
+  
+  def meat
+    @meat
+  end
+  
+  def bread_type=(new_bread_type)
+    @bread_type=new_bread_type
+  end
+  
+  def meat=(new_meat)
+    @meat=new_meat
+  end
 end
+
