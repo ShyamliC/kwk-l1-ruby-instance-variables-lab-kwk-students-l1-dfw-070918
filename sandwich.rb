@@ -14,11 +14,11 @@ class Sandwich
     @meat
   end
   
-  def bread_type=(new_bread_type)
+  def bread_type= (new_bread_type)
     @bread_type=new_bread_type
   end
   
-  def meat=(new_meat)
+  def meat= (new_meat)
     @meat=new_meat
   end
 end
