@@ -23,3 +23,4 @@ class Sandwich
   end
 end
 
+Sandwich.new("sourdough","turkey","cheddar","cold")
