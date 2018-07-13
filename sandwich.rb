@@ -21,6 +21,7 @@ class Sandwich
   def meat= (new_meat)
     @meat=new_meat
   end
+  
 end
 
 Sandwich.new("sourdough","turkey","cheddar","cold")
